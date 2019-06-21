@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 sudo -i
 sleep 20s
 apt-get update
